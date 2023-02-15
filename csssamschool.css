@@ -1,0 +1,53 @@
+h1 {
+  color: black;
+  font-size: huge;
+  border : 1px solid black;
+  transition : all 0.4s ease-in-out
+}
+
+h1:hover { display : block;
+  background-color : lemonchiffon}
+
+
+
+main {
+    color: black;
+    font-size: huge;
+    border : 1px solid black;
+    transition : all 0.4s ease-in-out
+  }
+
+main:hover { display : block;
+    background-color : lemonchiffon
+
+}
+
+div {
+  color: black;
+  font-size: huge;
+  border : 1px solid black;
+  transition : all 0.4s ease-in-out
+}
+
+div:hover  {display : block;
+  background-color : rgb(250, 255, 205)}
+
+
+
+body {
+  color:black;
+  background-color:white;
+  background-image:url(maths-modified.webp);
+  font-family: 'Arial';
+  margin:1px;
+  
+  }
+
+
+  mark {
+    background-color: 
+  transparent;
+    color: 
+  black;
+  }
+
